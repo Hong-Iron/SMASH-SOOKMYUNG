@@ -1,0 +1,34 @@
+{
+ "region": "서울 용산구 청파동",
+ "nameEn": "Sookmyung Women's University",
+ "added": "2026-10-16",
+ "rank": 154,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KYONGGI-SEOUL",
+   "campus": "경기대학교 서울캠퍼스",
+   "km": 2.2
+  },
+  {
+   "code": "CHUGYE",
+   "campus": "추계예술대학교",
+   "km": 2.2
+  },
+  {
+   "code": "SOGANG",
+   "campus": "서강대학교",
+   "km": 2.2
+  },
+  {
+   "code": "SOONGEUI",
+   "campus": "숭의여자대학교",
+   "km": 2.3
+  },
+  {
+   "code": "MTU",
+   "campus": "감리교신학대학교",
+   "km": 2.5
+  }
+ ]
+}
